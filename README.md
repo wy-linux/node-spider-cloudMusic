@@ -1,6 +1,8 @@
 ### 爬取[网易云音乐](https://music.163.com/#)的node.js项目
+```shell
 1. npm install  下载相关依赖
-2. node download-cloud-music  进行音乐爬取  需传入PC网页版网易云音乐链接
+2. node download-cloud-music.js  进行音乐爬取  需传入PC网页版网易云音乐链接
+```
 ##### bin目录为爬虫核心请求逻辑
 ```javascript
    /**
